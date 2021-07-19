@@ -355,4 +355,4 @@ if ($statusloaded) {
 #3. Show error on remediation failure 
 #4. Improve removing CDs
 #5. Add comments
-#6. Check compliance without updating.
+#6. Check compliance without updating
